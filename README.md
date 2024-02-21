@@ -1,4 +1,4 @@
-# Project Readme: Dynamic Population Pyramids
+# Dynamic Population Pyramids
 ## Project Overview
 This project, "Plotting Dynamic Population Pyramids," provides scripts and methodologies for creating interactive population pyramids using various data analysis and visualization tools, namely R, Python, Stata, SPSS, and Excel. Each tool's script is designed to take demographic data and transform it into a dynamic, visual representation of the population's age and sex distribution.
 
@@ -33,4 +33,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Contact
 Project Maintainer: Wanying Ling
+
 Email: lingwany@connect.hku.hk
